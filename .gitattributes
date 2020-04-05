@@ -1,0 +1,7 @@
+*.qu filter=lfs diff=lfs merge=lfs -text
+*.lon filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.lox filter=lfs diff=lfs merge=lfs -text
+*.qux filter=lfs diff=lfs merge=lfs -text
+*.ta filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
