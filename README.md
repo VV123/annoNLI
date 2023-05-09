@@ -1,4 +1,6 @@
-# NLIDB
+# annoNLI
+
+Natural language interface to databases using adversarial annotation.
 
 ## Dependencies
 - TF 1.4
